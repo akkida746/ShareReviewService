@@ -1,6 +1,6 @@
 package com.example.demo.repository;
 
-import com.reactive.examples.model.User;
+import com.example.demo.model.User;
 import org.springframework.data.r2dbc.repository.Query;
 import org.springframework.data.repository.reactive.ReactiveCrudRepository;
 import reactor.core.publisher.Flux;
